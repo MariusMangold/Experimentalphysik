@@ -122,7 +122,6 @@ print('T2     ' + str(t2))
 
 deltaT = t1 - t2
 print('deltaT : ' + str(deltaT))
-# plot the results
-#schaubild(zeit, phi1, phi2)
+#Grafik erstellen
+schaubild(zeit, phi1, phi2)
 
-# deltaT = numerisch- genähert
